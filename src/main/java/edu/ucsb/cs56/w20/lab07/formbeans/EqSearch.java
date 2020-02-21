@@ -10,6 +10,6 @@ public class EqSearch {
 
 	public int getDistance()	{return distance;}
 	public int getMinmag()	{return minmag;}
-	public void setDistance(int distanace)	{this.distance = distance;}
+	public void setDistance(int distance)	{this.distance = distance;}
 	public void setMinmag(int minmag)	{this.minmag = minmag;}
 }
